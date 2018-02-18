@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/GeneticCar.unity
+  isLoaded: 1
+  isActive: 1
